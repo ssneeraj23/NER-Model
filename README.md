@@ -7,5 +7,6 @@ Example:
 Input sentence: Jim bought 300 shares of Acme Corp. in 2022.
 
 Tagset: Person, Organization, Time
+
 Output: [Jim] <sub>Person</sub> bought 300 shares of [Acme Corp.] <sub>Organization</sub> in [2022] <sub>Time</sub>.
 
