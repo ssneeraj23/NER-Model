@@ -1,6 +1,7 @@
 # NER-Model
 A Named Entity recognition model using RNN. Its objective is to identify all the named entities present in
 that sentence and predict their correct type (tag) from a predefined tag set.
+
 Dataset: https://multiconer.github.io/dataset
 
 Example:
